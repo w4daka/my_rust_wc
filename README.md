@@ -7,7 +7,7 @@
 ## フォルダ構成
 
 ```text
-wc
+my_rust_wc
 ├ Cargo.toml
 ├ flake.nix
 ├ src
@@ -18,8 +18,6 @@ wc
 │
 ├ tests
 │  └ wc_spec.rs
-│
-├ experiments
 │
 ├ thinking-log
 │
